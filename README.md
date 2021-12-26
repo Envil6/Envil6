@@ -1,6 +1,6 @@
 - 👋 Oi, meu nome é Davi tenho 17 anos e eu sou um novato em programação
 - 👀 Estou interessado em Alcançar uma carreira com a programação
-- 🌱 Estou aprendendo atualmente C#,JS e Python
+- 🌱 Estou aprendendo atualmente GML,JS e Python
 - 💞️ Adoraria colaborar com o que puder
 - 📫 Você pode me contactar por email : davirepereira@gmail.com
 
